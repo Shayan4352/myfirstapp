@@ -7,7 +7,7 @@
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
 
         <activity
-            android:name="com.example.myfirstapp.MainActivity"
+            android:name="com.example.ABUZAR GHAZI.MainActivity"
             android:exported="true">
 
             <intent-filter>
