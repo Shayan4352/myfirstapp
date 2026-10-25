@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.myfirstapp'
+    namespace 'com.example.ABUZAR GHAZI'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'com.example.myfirstapp'
+        applicationId 'com.example.ABUZAR GHAZI'
         minSdk 23
         targetSdk 28
         versionCode 1
